@@ -5,6 +5,7 @@
 - Search Student Records
 - View Student Records
 - Delete Student Records
+- Exit
 
 ## Technology Used
 - Python
